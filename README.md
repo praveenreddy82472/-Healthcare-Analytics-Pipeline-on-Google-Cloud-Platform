@@ -19,8 +19,8 @@ This project demonstrates how to build a complete data pipeline on **Google Clou
 
 ## 📌 Pipeline Architecture
 
-![Pipeline Architecture](https://your-image-link.com/pipeline-diagram.png)  
-*Replace the above URL with your actual architecture diagram link.*
+![Pipeline Architecture](https://raw.githubusercontent.com/praveenreddy82472/tutorial_test/main/DaflwPip.jpg)
+
 
 ---
 
